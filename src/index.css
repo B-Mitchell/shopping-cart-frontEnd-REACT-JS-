@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #fff;
+    color: #000;
+    overflow-x: hidden;
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    width: 200px;
+    height: 200px;
+}

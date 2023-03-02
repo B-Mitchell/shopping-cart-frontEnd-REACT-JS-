@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    height: 70px;
+    background-color: black;
+    align-items: center;
+}
+.mainName {
+    font-size: 35px;
+    margin-left: 15%;
+    color: #fff;
+    font-family: cursive;
+}
+.mainName:hover {
+    cursor: pointer;
+}
+.links {
+    padding-right: 20px;
+    display: flex;
+    height: 100%;
+    padding-left: 10px;
+    align-items: center;
+    justify-content: space-around;
+    width: 15%;
+    
+}
+a {
+    text-align: center;
+    font-size: 23px;
+    text-decoration: none;
+    color: #fff;
+    padding-left: 10px;
+}
+.shopLink:hover {
+    color: lightseagreen;
+}
